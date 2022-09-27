@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\VirusTest\source\repos\Il2CppGetAllAddresses\Il2CppGetAllAddresses\main.cpp(20,34): warning C4474: "printf" : для строки формата передано слишком много аргументов
+C:\Users\VirusTest\source\repos\Il2CppGetAllAddresses\Il2CppGetAllAddresses\main.cpp(20,34): message : заполнители и их параметры ожидают переменное число аргументов в количестве 0, но было предоставлено 1
+C:\Users\VirusTest\source\repos\Il2CppGetAllAddresses\Il2CppGetAllAddresses\main.cpp(21,2): error C2143: синтаксическая ошибка: отсутствие ";" перед "}"
